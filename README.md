@@ -4,7 +4,10 @@
 
 This is a static research archive covering 22 Chinese artists, with representative works and links to institutional collections, exhibitions, auction records, and publications.
 
+## Live site
+
+https://chinese-artists-research-archive.pages.dev/
+
 ## Deployment
 
 The site is a single static `index.html` and requires no build step. It is configured for Cloudflare Pages through `wrangler.toml`.
-
